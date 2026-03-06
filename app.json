@@ -64,7 +64,7 @@
           "icon": "./assets/favicon.png",
           "color": "#4f46e5",
           "sounds": [
-            "./assets/alarm.wav"
+            "./assets/sounds/alarm.wav"
           ]
         }
       ],
