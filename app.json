@@ -77,7 +77,6 @@
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "owner": "Amar9893",
     "platforms": [
       "android",
       "ios",
