@@ -42,7 +42,6 @@
         "android.permission.SCHEDULE_EXACT_ALARM",
         "android.permission.USE_EXACT_ALARM",
         "android.permission.POST_NOTIFICATIONS",
-        "android.permission.BATTERY_STATS",
         "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
         "android.permission.FOREGROUND_SERVICE"
       ],
